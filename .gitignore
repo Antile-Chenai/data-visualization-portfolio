@@ -3,3 +3,8 @@ venv/
 *.log
 __pycache__/
 .ipynb_checkpoints/
+venv/
+.env
+*.log
+__pycache__/
+.ipynb_checkpoints/

@@ -5,3 +5,10 @@ East,Widget A,1500,400
 West,Widget C,700,150
 North,Widget B,2000,600
 South,Widget C,800,200
+Region,Product,Sales,Profit
+North,Widget A,1200,300
+South,Widget B,900,250
+East,Widget A,1500,400
+West,Widget C,700,150
+North,Widget B,2000,600
+South,Widget C,800,200

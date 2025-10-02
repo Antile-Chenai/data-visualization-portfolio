@@ -3,3 +3,8 @@ numpy
 matplotlib
 seaborn
 plotly
+pandas
+numpy
+matplotlib
+seaborn
+plotly
