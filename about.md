@@ -1,0 +1,67 @@
+
+About Me
+Antile Chenai Kaba
+
+(551) 727-5775 | antilekaba22@gmail.com
+ | LinkedIn
+ | Bayonne, NJ 07002
+
+Education
+
+CUNY Baruch – New York, NY
+M.S. in Information Systems and Data Analytics | GPA: 3.58 | 01/2024 – 12/2025
+Relevant Coursework: IT Strategy, Database Management, Programming for Analytics, Data Mining, Data Warehousing, Big Data Analytics, Data Visualization
+
+Curtin University – Perth, Australia
+B.Com. in Logistics, Supply Chain Management, and Marketing | GPA: 3.3 | 07/2020 – 06/2023
+
+Experience
+
+Data Axle – New Jersey
+Data Engineering Intern | 01/2025 – 05/2025
+
+Engineered automated ETL pipelines using dbt and Google Cloud Platform, enabling scalable data warehousing for 5+ analytics teams
+
+Optimized workflows, improving performance by 20% and ensuring 99% data accuracy across 10M+ records
+
+Administered Tableau Server and integrated with Apache Airflow, reducing reporting downtime by 15%
+
+Partnered with stakeholders to design a centralized data repository, cutting manual reporting by 30+ hours/month
+
+Tiger Analytics – New Jersey
+Business Analyst Intern | 07/2025 – 09/2025
+
+Conducted exploratory data analysis on 250K+ records, uncovering key drivers of operational inefficiencies
+
+Translated business requirements into SQL scripts and BI dashboards, aligning technical solutions with business strategy
+
+Designed real-time Tableau and Power BI dashboards, enabling executives to monitor KPIs and reduce reporting cycles by 25%
+
+Celero Group – Mauritius
+Logistics Intern | 06/2023 – 08/2023
+
+Managed 300+ sales quotes and cleared 120+ monthly shipments, achieving 100% compliance with international trade regulations
+
+Conducted import/export trend analysis using Excel and Python, reducing brokerage fees by 12% through vendor optimization
+
+Delivered market research reports that supported expansion into 3 new international markets
+
+Served as client/vendor liaison, resolving logistics issues with a 95% satisfaction rate
+
+Projects
+
+Data Warehousing on Google Cloud Platform | SQL, dbt, BigQuery
+Problem: Fragmented data sources across teams made analytics inconsistent and time-consuming
+Solution: Designed modular dbt models, implemented data quality tests, and deployed a BigQuery-based warehouse with documented lineage
+Outcome: Improved data accessibility and trust; boosted analyst productivity by 25%; created a maintainable, production-ready data infrastructure
+
+Airbnb Market Analysis | Python, Pandas, NumPy, Matplotlib
+Problem: Investors lacked insight into borough-level Airbnb competition and profitability in NYC
+Solution: Analyzed 20,000+ listings, identified pricing/occupancy trends, and visualized insights with Python libraries
+Outcome: Highlighted Manhattan & Brooklyn as top-performing boroughs, guiding investor recommendations and optimizing rental strategies
+
+Technical Skills
+
+Languages & Tools: Python, SQL, Excel, Tableau, Power BI, Jupyter Notebook, SAP, SPSS, dbt, Apache Airflow
+Libraries: Pandas, NumPy, Matplotlib, Scikit-learn
+Data Skills: Data Warehousing, ETL Development, Data Cleaning, Data Scraping, Data Mining, Statistical Analysis, Data Visualization, Machine Learning (intro), Big Data Analytics
