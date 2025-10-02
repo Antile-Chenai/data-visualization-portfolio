@@ -1,51 +1,45 @@
 # Data Visualization Portfolio
 
 ## 📌 Overview
-This repository contains multiple small Python projects demonstrating data visualization skills using Matplotlib, Seaborn, and Plotly.
+This repository showcases multiple small Python projects demonstrating data visualization skills using **Matplotlib**, **Seaborn**, and **Plotly**.  
+It includes both static and interactive visualizations to explore sales trends, customer behavior, and time series data.
 
-## 🗂 Projects
-- Sales Analysis
-- Customer Segmentation
-- Time Series Trends
-- Interactive Plot Examples
+## 🗂 Project Structure
+```
+data/                # CSV datasets
+projects/            # Python scripts for visualizations
+notebooks/           # Jupyter notebooks for exploratory analysis
+assets/              # Screenshots / exported images
+```
 
-## ⚙️ Tech Stack
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- CSV datasets
+## 🚀 Installation
+1. Clone the repo:
+```
+git clone https://github.com/Antile-Chenai/data-visualization-portfolio.git
+cd data-visualization-portfolio
+```
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
 
-## 🚀 How to Run
-1. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-2. Open any Python script in `projects/` to explore the visualizations.
-3. Update or add your own datasets in `data/`.
+## 🏷 Usage
+- Open Python scripts in `projects/` to run visualizations.
+- Use Jupyter notebooks in `notebooks/` for interactive exploration.
+- Update or add your datasets in `data/`.
 
----
-✨ Author: [Antile-Chenai](https://github.com/Antile-Chenai)
-# Data Visualization Portfolio
-
-## 📌 Overview
-Multiple small Python projects demonstrating data visualization skills using Matplotlib, Seaborn, and Plotly.
-
-## 🗂 Projects
-- Sales Analysis
-- Customer Segmentation
-- Time Series Trends
-- Interactive Plot Examples
+## 📊 Examples
+- `sales_analysis.py` → Sales by region.
+- Future scripts could include customer segmentation, interactive dashboards, and trend analysis.
 
 ## ⚙️ Tech Stack
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
-- CSV datasets
 
-## 🚀 How to Run
-1. pip install -r requirements.txt
-2. Open any script in projects/
-3. Update/add datasets in data/
+## 📌 Recommendations
+- Add new scripts for other datasets.
+- Include screenshots or exported images for portfolio showcase.
 
 ---
 ✨ Author: [Antile-Chenai](https://github.com/Antile-Chenai)
