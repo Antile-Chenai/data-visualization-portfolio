@@ -1,22 +1,12 @@
-# data-visualization-portfolio
+# Data Visualization Portfolio
 
 ## Overview
-This is the data-visualization-portfolio project.
+Portfolio of Python data visualization projects highlighting trends, patterns, and insights from datasets.
 
-## Technologies
-Python, Pandas, NumPy, Matplotlib
+## Technologies Used
+Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 ## Scripts
 ```python
-print('data-visualization-portfolio Project')
-```
-
-## Usage
-```bash
-python scripts/main.py
-```
-
-## Outcome
-- Full project code included
-- Ready for further development
+$(cat scripts/main.py)
 
